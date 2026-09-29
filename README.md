@@ -337,4 +337,4 @@ All monitor control is performed using native Windows APIs, and the complete Pow
 
 ## License
 
-Consider adding an MIT license if you intend to publish or distribute the project publicly.
+Use, modify, and distribute as you see fit.
