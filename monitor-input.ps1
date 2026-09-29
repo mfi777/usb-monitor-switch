@@ -57,12 +57,12 @@ public class MonitorControl
 
 switch ($env:COMPUTERNAME.ToUpper()) {
 
-    "PC1-name" {
+    "PC1-ONE" {
         $TargetValue = [uint32]17
         $TargetName  = "HDMI1"
     }
 
-    "PC2-name" {
+    "PC2-TWO" {
         $TargetValue = [uint32]15
         $TargetName  = "DP"
     }
